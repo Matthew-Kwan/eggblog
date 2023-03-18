@@ -13,7 +13,6 @@ image = "sloth.webp"
 ## Introduction
 Hello again :smile:, welcome back to this blog. Today, we have a very fun topic that I randomly learned when trying to pick up more Go. The quick topic for today is software translation, and a high level overview of how what we code actually turns into something that our computers can process.
 
-
 ## Different Types of Languages
 There are three main different types of languages that are used:
 
