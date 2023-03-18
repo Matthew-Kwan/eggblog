@@ -1,7 +1,7 @@
 +++
 author = "Matthew Kwan"
 title = "Hello World"
-date = "2020-06-20"
+date = "2022-06-20"
 description = "Welcome to my blog!"
 categories = [
     "blogs",

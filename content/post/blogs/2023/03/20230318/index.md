@@ -1,7 +1,7 @@
 +++
 author = "Matthew Kwan"
 title = "My (very late) learning goals for 2023"
-date = "2020-06-25"
+date = "2023-03-18"
 description = "A blog post to keep myself focused and accountable"
 categories = [
     "blogs",

@@ -1,7 +1,7 @@
 +++
 author = "Matthew Kwan"
 title = "Software Translation"
-date = "2020-06-25"
+date = "2022-06-25"
 description = "How software even works (and my dismay for learning it so late)"
 categories = [
     "blogs",
